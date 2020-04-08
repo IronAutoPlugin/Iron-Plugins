@@ -8,7 +8,7 @@ Installation files and Guide : &lt;<https://github.com/IronAutoPlugin/AutoInstal
 Note : This repository has two branchs. Plugins branch has the last version of each plugin and   
 ArchivedPlugin branch has Archives of plugins.
 #### These Plugins used in AutoInstaller scripts .It download and install plugins directly from this repository.    
-### All plugins uploaded or maked by other friends.   
+### All plugins uploaded or maked by dear Mohammad Nasr and other friends.   
 
 If everyone wants to create new fork of this repository, it's not problem. But that's fork unusable in AutoInstaller.  
 Dear plugin creators : If your output files maked with Thechnical Info structure, that,s usable with AutoInstaller.  
