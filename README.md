@@ -1,7 +1,7 @@
 # Icone-Iron-Plugins
 ## Unofficial Icone Iron Plugins  
-Used for AutoInstaller By $cripter(https://play.google.com/store/apps/details?id=sites.mjwhitta.scripter)  
-Installation files and Guide : &lt;<https://t.me/IronAutoPlugin>&gt;    
+Used for AutoInstaller By Android $cripter app   
+Installation files and Guide : &lt;<https://github.com/IronAutoPlugin/AutoInstaller>&gt;    
   
 ### Thechnical Info : &lt;<https://github.com/IronAutoPlugin/Iron-Plugins/wiki>&gt;
    
@@ -25,6 +25,4 @@ The basic concept of these credits is that the collaborative nature of open-sour
 ## SPECIAL THANKS TO SPECIAL PEOPLE :  
 ### Shahab(t.me/Sky4533)  
 ### Miles Whittaker (mjwhitta) &lt;<https://mj.whitta.dev>&gt;  
-### Mohammad Nasr (MNASR) &lt;<https://oscambinaries.blogspot.com>&gt;  
-### popking159
-
+### Mohammad Nasr (MNASR,popking159) &lt;<https://oscambinaries.blogspot.com>&gt;  
